@@ -28,6 +28,7 @@ Prompts are organized by skill level:
 ### Beginner Level
 - **Getting Started** - Introduction to HTML, CSS, and JavaScript
 - **Git Basics** - Version control fundamentals
+- **Debugging Basics** - Browser developer tools and debugging techniques
 
 ### Intermediate Level
 - **API Integration** - Working with REST APIs in web applications
